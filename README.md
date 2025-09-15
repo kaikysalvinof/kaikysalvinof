@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠️ Meu Arsenal de Tecnologias
+### 🛠️ Tecnologias
 
 <table align="center">
   <tr>
