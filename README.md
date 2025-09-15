@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  Tenho 20 anos e sou um Engenheiro de Software com 5 anos de experiência comprovada em Cloud, Desenvolvimento Mobile e Web.
+  Tenho 19 anos e sou um Engenheiro de Software com 5 anos de experiência comprovada em Cloud, Desenvolvimento Mobile e Web.
 </p>
 
 <p align="center">
