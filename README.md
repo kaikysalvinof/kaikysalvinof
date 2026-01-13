@@ -10,7 +10,7 @@
 
 <p align="center">
   <b>Fale Comigo</b><br>
-  <a href="https://wa.me/5511981905550" target="_blank">
+  <a href="https://wa.me/" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="https://discord.com/users/astrad1" target="_blank">
